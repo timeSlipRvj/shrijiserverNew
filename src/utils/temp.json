@@ -1,0 +1,341 @@
+{
+  "General": {
+    "WelcomeText": "Welcome to FleetCart store",
+    "ThemeColor": "Blue",
+    "MailThemeColor": "Blue",
+    "Address": "Dhaka, Mohammadpur",
+    "TermsConditionsPageId": "607ff9b1ade2c633a4acb99a",
+    "PrivacyPolicyPage": "607ff9caade2c633a4acb99b"
+  },
+  "Logo": {
+    "FaviconId": "608e632cddb53a410463c244",
+    "HeaderLogoId": "608e632cddb53a410463c244",
+    "MailLogo": "608e632cddb53a410463c244"
+  },
+  "Menus": {
+    "NavbarText": "Free shipping over $100+",
+    "FooterMenuOneTitle": "Our Services",
+    "FooterMenuTwoTitle": "Information"
+  },
+  "Footer": {
+    "FooterTagsIds": ["60767b9610fc602de8d8c79f", "60767cb2bdcec719b4a9f435"],
+    "FooterCopyrightText": "Copyright © <a href=\"{{ store_url }}\">{{ store_name }}</a> {{ year }}. All rights reserved.",
+    "AcceptedPaymentMethodsImageId": "608e632cddb53a410463c244"
+  },
+  "Newsletter": {
+    "BackgroundImageId": "608e632cddb53a410463c244"
+  },
+  "Features": {
+    "SectionStatus": true,
+    "Features": [
+      {
+        "_id": "608f96a7dc658707a038d2aa",
+        "Title": "24/7 SUPPORT",
+        "SubTitle": "Support every time",
+        "Icon": "las la-headphones"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2ab",
+        "Title": "ACCEPT PAYMENT",
+        "SubTitle": "Visa, Paypal, Master",
+        "Icon": "las la-credit-card"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2ac",
+        "Title": "SECURED PAYMENT",
+        "SubTitle": "100% secured",
+        "Icon": "las la-shield-alt"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2ad",
+        "Title": "FREE SHIPPING",
+        "SubTitle": "Order over $100",
+        "Icon": "las la-truck"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2ae",
+        "Title": "30 DAYS RETURN",
+        "SubTitle": "30 days guarantee",
+        "Icon": "las la-calendar-minus"
+      }
+    ]
+  },
+  "ProductPage": {
+    "CalltoActionURL": "/categories/headphones/products",
+    "OpenInNewWindow": false,
+    "ImageId": "608e632cddb53a410463c244"
+  },
+  "SocialLinks": {
+    "Facebook": "#",
+    "Twitter": "#",
+    "Instagram": "#",
+    "Youtube": "#"
+  },
+  "FeaturedCategories": {
+    "SectionStatus": "true",
+    "SectionTitle": "Top Categories in Sales and Trending",
+    "SectionSubtitle": "Last Month upto 1500+ Products Sales From this catagory. You can choose a product from here and save money.",
+    "Categories": [
+      {
+        "_id": "608f96a7dc658707a038d2bf",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2c0",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2c1",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2c2",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2c3",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2c4",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      }
+    ]
+  },
+  "TopBrands": {
+    "TopBrandsIds": ["608e6507167c2135fcef38e8", "608e6a328e52f5432065ef1d"],
+    "SectionStatus": true
+  },
+  "FlashSaleVerticalProducts": {
+    "FlashSale": {
+      "Title": "Best <b>Deals</b>",
+      "ActiveCampaign": "Flash Sale"
+    },
+    "SectionStatus": true,
+    "VerticalProducts": [
+      {
+        "_id": "608f96a7dc658707a038d2d4",
+        "Title": "Watches",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2d5",
+        "Title": "Backpacks",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      },
+      {
+        "_id": "608f96a7dc658707a038d2d6",
+        "Title": "Shirts",
+        "Type": "Category Products",
+        "CategoryId": "607d18dff60cc83cccb7b363"
+      }
+    ]
+  },
+  "_id": "608f96a7dc658707a038d2a9",
+  "Banners": [
+    {
+      "_id": "608f96a7dc658707a038d2af",
+      "Name": "Slider Banners",
+      "Banners": [
+        {
+          "_id": "608f96a7dc658707a038d2b0",
+          "CalltoActionURL": "/categories/backpacks/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2b1",
+          "CalltoActionURL": "/categories/iphone/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2b2",
+      "Name": "Three Column Full Width Banners",
+      "SectionStatus": true,
+      "BackgroundId": "608e632cddb53a410463c244",
+      "Banners": [
+        {
+          "_id": "608f96a7dc658707a038d2b3",
+          "CalltoActionURL": "/categories/home-appliances/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2b4",
+          "CalltoActionURL": "/categories/home-appliances/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2b5",
+          "CalltoActionURL": "/categories/samsung/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2b6",
+      "Name": "Two column banners",
+      "SectionStatus": true,
+      "Banners": [
+        {
+          "_id": "608f96a7dc658707a038d2b7",
+          "CalltoActionURL": "/categories/ultraslim/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2b8",
+          "CalltoActionURL": "/categories/watches/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2b9",
+      "Name": "Three Column Banners",
+      "SectionStatus": true,
+      "Banners": [
+        {
+          "_id": "608f96a7dc658707a038d2ba",
+          "CalltoActionURL": "/categories/home-appliances/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2bb",
+          "CalltoActionURL": "/categories/mobile-accessories/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2bc",
+          "CalltoActionURL": "/categories/gadgets/products",
+          "OpenInNewWindow": false,
+          "ImageId": "608e632cddb53a410463c244"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2bd",
+      "Name": "One Column Banner",
+      "SectionStatus": true,
+      "Banners": [
+        {
+          "_id": "608f96a7dc658707a038d2be",
+          "CalltoActionURL": "/categories/home-appliances/products",
+          "OpenInNewWindow": true,
+          "ImageId": "608e632cddb53a410463c244"
+        }
+      ]
+    }
+  ],
+  "Products": [
+    {
+      "_id": "608f96a7dc658707a038d2c5",
+      "Name": "Product Tabs One",
+      "SectionStatus": true,
+      "Tabs": [
+        {
+          "_id": "608f96a7dc658707a038d2c6",
+          "Title": "Featured",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2c7",
+          "Title": "Special",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2c8",
+          "Title": "New Arrival",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2c9",
+          "Title": "Latest",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2ca",
+      "Name": "Product Grid",
+      "SectionStatus": true,
+      "Tabs": [
+        {
+          "_id": "608f96a7dc658707a038d2cb",
+          "Title": "Mobiles",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2cc",
+          "Title": "Fashion",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2cd",
+          "Title": "Laptops",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2ce",
+          "Title": "Tablets",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        }
+      ]
+    },
+    {
+      "_id": "608f96a7dc658707a038d2cf",
+      "Name": "Product Tabs Two",
+      "SectionStatus": true,
+      "Tabs": [
+        {
+          "_id": "608f96a7dc658707a038d2d0",
+          "Title": "Hot Best Sellers",
+          "Type": "Latest Products",
+          "ProductsLimit": "10"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2d1",
+          "Title": "Recently Viewed",
+          "Type": "Recently Viewed Products",
+          "ProductsLimit": "10"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2d2",
+          "Title": "Laptops",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        },
+        {
+          "_id": "608f96a7dc658707a038d2d3",
+          "Title": "Top Selling",
+          "Type": "Category Products",
+          "CategoryId": "607d18dff60cc83cccb7b363"
+        }
+      ]
+    }
+  ]
+}
